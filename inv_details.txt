@@ -1,0 +1,4 @@
+1:chair:2:3
+2:ruler:5:2
+3:book:5:4
+4:muose:1:1
